@@ -8,3 +8,7 @@ console.log(login);
 
 const footer="Creating a footer";
 console.log(footer);
+
+//PAYMENT BRANCH
+const payment="Creating Payment button";
+console.log(payment);
