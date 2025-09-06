@@ -6,3 +6,5 @@ const login= "Creating a login button";
 console.log(login);
 
 
+const footer="Creating a footer";
+console.log(footer);
