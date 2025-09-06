@@ -12,3 +12,6 @@ console.log(footer);
 //PAYMENT BRANCH
 const payment="Creating Payment button";
 console.log(payment);
+
+const upi="Creating a UPI button";
+console.log(upi);
